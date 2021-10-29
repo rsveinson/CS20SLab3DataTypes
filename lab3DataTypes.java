@@ -57,10 +57,6 @@
         //i = 3.45567788;       // code for AQ3
         //System.out.println("i = " + i);
 
-            i = Integer.MAX_VALUE;
-            System.out.println(i);
-            i = i + 1;
-            System.out.println(i);
     // ***** closing statement ******
         
         System.out.println("end");
